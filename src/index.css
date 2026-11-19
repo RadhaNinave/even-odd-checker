@@ -1,0 +1,37 @@
+body {
+  background-color: #f5f6fa;
+}
+
+.checker-card {
+  max-width: 360px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #111827;
+}
+
+.number-input {
+  font-size: 0.85rem;
+}
+
+.btn-check-num {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.btn-check-num:hover {
+  background-color: #1d4ed8;
+  border-color: #1d4ed8;
+}
+
+.result {
+  color: #1d1df5;
+  font-weight: 700;
+  font-size: 0.85rem;
+}
